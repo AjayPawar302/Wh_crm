@@ -1,0 +1,10 @@
+{
+  "name": "@whcrm/web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node src/server.js",
+    "build": "node -e \"console.log('build placeholder')\"",
+    "lint": "node -e \"console.log('lint placeholder')\""
+  }
+}
